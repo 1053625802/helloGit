@@ -9,5 +9,6 @@ public class GitDemo {
         System.out.println("创建分支");
         System.out.println("冲突可可可可扩");
         System.out.println("冲突哎哎哎啊");
+        System.out.println("更新啊");
     }
 }
